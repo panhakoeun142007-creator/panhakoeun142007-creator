@@ -57,29 +57,9 @@
       </ul>
     </td>
     <td width="42%" align="center" valign="middle">
-      <div align="center">
-        <p align="center">
-          <a href="https://laravel.com/" target="_blank">
-            <img src="https://raw.githubusercontent.com/panhakoeun142007-creator/panhakoeun142007-creator/main/assets/laravel.svg" width="65" alt="Laravel" />
-          </a>
-          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-          <a href="https://www.odoo.com/" target="_blank">
-            <img src="https://raw.githubusercontent.com/panhakoeun142007-creator/panhakoeun142007-creator/main/assets/odoo.svg" width="125" alt="Odoo" />
-          </a>
-        </p>
-        <p align="center">
-          <a href="https://laravel.com/" target="_blank">
-            <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-          </a>
-          &nbsp;
-          <a href="https://www.odoo.com/" target="_blank">
-            <img src="https://img.shields.io/badge/Odoo_ERP-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo ERP" />
-          </a>
-        </p>
-        <p align="center">
-          <sub>⚡ <strong>Core Focus:</strong> Laravel Web Apps & Odoo ERP Solutions</sub>
-        </p>
-      </div>
+      <a href="https://github.com/panhakoeun142007-creator">
+        <img src="https://raw.githubusercontent.com/panhakoeun142007-creator/panhakoeun142007-creator/main/assets/core-stack.svg" alt="Core Tech Stack: Laravel & Odoo ERP" width="100%" />
+      </a>
     </td>
   </tr>
 </table>
