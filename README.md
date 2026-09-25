@@ -57,9 +57,29 @@
       </ul>
     </td>
     <td width="42%" align="center" valign="middle">
-      <a href="https://github.com/panhakoeun142007-creator">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panhakoeun142007-creator&layout=compact&theme=tokyonight&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0" alt="Top Languages" width="100%" />
-      </a>
+      <div align="center">
+        <p align="center">
+          <a href="https://laravel.com/" target="_blank">
+            <img src="assets/laravel.svg" width="65" alt="Laravel" />
+          </a>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <a href="https://www.odoo.com/" target="_blank">
+            <img src="assets/odoo.svg" width="125" alt="Odoo" />
+          </a>
+        </p>
+        <p align="center">
+          <a href="https://laravel.com/" target="_blank">
+            <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+          </a>
+          &nbsp;
+          <a href="https://www.odoo.com/" target="_blank">
+            <img src="https://img.shields.io/badge/Odoo_ERP-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo ERP" />
+          </a>
+        </p>
+        <p align="center">
+          <sub>⚡ <strong>Core Focus:</strong> Laravel Web Apps & Odoo ERP Solutions</sub>
+        </p>
+      </div>
     </td>
   </tr>
 </table>
