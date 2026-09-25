@@ -58,7 +58,7 @@
     </td>
     <td width="42%" align="center" valign="middle">
       <a href="https://github.com/panhakoeun142007-creator">
-        <img src="https://raw.githubusercontent.com/panhakoeun142007-creator/panhakoeun142007-creator/main/assets/core-stack.svg" alt="Core Tech Stack: Laravel & Odoo ERP" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panhakoeun142007-creator&layout=compact&theme=tokyonight&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0" alt="Top Languages" width="100%" />
       </a>
     </td>
   </tr>
